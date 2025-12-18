@@ -1,0 +1,7 @@
+{
+  "monetizacaoAtiva": true,
+  "notificarCheckout": true,
+  "percentagemPadraoCashback": 5,
+  "tempoAtualizacaoSites": 3600,
+  "mostrarInfoExtra": true
+}
