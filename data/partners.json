@@ -14,21 +14,6 @@
     "affiliate": "https://s.click.aliexpress.com/e/_TEU_ID_ALIEXPRESS",
     "cashback": 5
   },
-  "ebay.com": {
-    "name": "eBay",
-    "affiliate": "https://www.ebay.com/?campid=TEU_ID_EBAY",
-    "cashback": 2
-  },
-  "shein.com": {
-    "name": "Shein",
-    "affiliate": "https://www.shein.com/?ref=TEU_ID_SHEIN",
-    "cashback": 10
-  },
-  "temu.com": {
-    "name": "Temu",
-    "affiliate": "https://www.temu.com/?affiliate_id=TEU_ID_TEMU",
-    "cashback": 8
-  },
   "jumia.co.mz": {
     "name": "Jumia Moçambique",
     "affiliate": "https://www.jumia.co.mz/?a=TEU_ID_JUMIA",
