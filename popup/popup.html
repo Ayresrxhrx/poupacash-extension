@@ -3,21 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <title>PoupaCash</title>
-  <link rel="stylesheet" href="popup.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      width: 220px;
+      padding: 10px;
+    }
+  </style>
 </head>
 <body>
 
-  <div class="container">
-    <h1>PoupaCash 💸</h1>
+  <h3>PoupaCash 💸</h3>
 
-    <p id="site-status">A verificar site...</p>
-
-    <button id="ativar-btn" disabled>
-      Ativar Cupons / Cashback
-    </button>
-
-    <small id="info"></small>
-  </div>
+  <!-- ESTE ID É O MAIS IMPORTANTE -->
+  <div id="status">A verificar site...</div>
 
   <script src="popup.js"></script>
 </body>
