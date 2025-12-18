@@ -1,0 +1,1 @@
+# poupacash-extension
