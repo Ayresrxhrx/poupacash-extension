@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "PoupaCash",
+  "description": "Encontra cupons automaticamente e ajuda a poupar dinheiro.",
+  "version": "1.0.0",
+  "permissions": ["tabs"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
